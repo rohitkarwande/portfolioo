@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        MERN stack magician in training at Mumbai University, turning coffee and code into cool projects. If it’s broken, I’ll fix it—or at least blame JavaScript!
+        MERN stack magician in training at Mumbai University, turning coffee and code into cool projects. If it is broken, I will fix it—or at least blame JavaScript!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
